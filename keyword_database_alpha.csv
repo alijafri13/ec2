@@ -1,0 +1,168 @@
+,keyword,parsed_bool
+0,cd38,1
+1,cd19,1
+2,ifna,1
+3,Cytokines,1
+4,PDL1 expression,1
+5,Costimulatory proteins,1
+6,T cell activation,1
+7,T cell exhaustion,0
+8,STAT proteins,0
+9,T-regulatory cells,0
+10,IFNg,0
+11,Interferon Gamma,0
+12,CD28,0
+13,41BB,0
+14,OX40,0
+15,TOX,0
+16,PD1,0
+17,LAG3,0
+18,TIM3,0
+19,GITR,0
+20,STAT5B,0
+21,car-T,0
+22,autologous T-cell therapy,0
+23,allogeneic T-cell therapy,0
+24,autologous cell therapy,0
+25,allogeneic cell therapy,0
+26,adoptive cell transfer,0
+27,chimeric antigen,0
+28,chimeric antigen receptor,0
+29,tumor microenvironment,0
+30,checkpoint inhibitor,0
+31,infusion,0
+32,peripheral survival,0
+33,tumor infiltration,0
+34,selective activation,0
+35,robust expansion,0
+36,cytotoxicity,0
+37,avoidance of exhaustion,0
+38,avoidance of supression,0
+39,endogenous immunity,0
+40,memory T-cell persistence,0
+41,T-cell subset populations,0
+42, differentiation,0
+43,dedifferentiation,0
+44,clonal expansion,0
+45,clones,0
+46,HPL,0
+47,human platlet lysate,0
+48,solid tumor,0
+49,blood borne cancer,0
+50,ALL,0
+51,specificity,0
+52,CRISPR CAS-9,0
+53,viral vectors,0
+54, genome editing,0
+55,interleukin-7,0
+56,IL-7,0
+57,C7R T-cell therapy,0
+58,signal modulation,0
+59,target selection,0
+60,target,0
+61,target loss,0
+62,mutations,0
+63,TGF‐ß,0
+64,gene regulation,0
+65,upregulation,0
+66,downregulation,0
+67,inducible T cell costimulator,0
+68,ICOS,0
+69,T regulatory cells,0
+70,Treg,0
+71,CD28,0
+72,CXCR2,0
+73,CCR2b,0
+74,overexpression,0
+75,CAR-t toxicity,0
+76,target identification,0
+77,B-cell maturation antigen,0
+78,genomic instability,0
+79,target stability,0
+80,TET2,0
+81,locus,0
+82,clonal composition variability,0
+83,T-cell dysfunction,0
+84,CD4,0
+85,CD8,0
+86,tyrosine-based activation motif,0
+87,ITAM,0
+88,metabolites,0
+89,culturing conditions,0
+90,phenotype,0
+91,genotype,0
+92,Dual‐receptor‐based CAR,0
+93,increase specificity,0
+94,chimeric costimulatory receptor,0
+95,CCR,0
+96,off target effects,0
+97,affinity of targets,0
+98,antigen density,0
+99,biomarkers,0
+100,maintenence genes,0
+101,T-cell proliferation,0
+102,iCasp9,0
+103,herpes simplex virus thymidine kinase,0
+104,inducible human caspase‐9,0
+105,helper T-cell,0
+106,cytotoxic T-cell,0
+107,stress factors,0
+108,CAR T cell manufacturing,0
+109,manufacturing at scale,0
+110,antiCD36 nano beads,0
+111,APC,0
+112,antigen presenting cell,0
+113,Anti-CD3 antibodies,0
+114,Anti-CD28 Antibodies,0
+115,Retronectin,0
+116,retroviral,0
+117,transduction,0
+118,K562,0
+119,tumor associated antigen,0
+120,TAA,0
+121,HLA-A,0
+122,HLA-B
+125,good manufacturing practice,0
+126,GMP,0
+127,Automation,0
+128,COGS,0
+129,cost of goods sold,0
+130,IL-15,0
+131,GSK3β,0
+132,mTOR,0
+133,AKT,0
+134,PI3K,0
+135,scalable manufacturing,0
+136,plasmid,0
+137,adeno-associated virus,0
+138,AAV,0
+139,TRAC,0
+140,T-cell receptor α constant,0
+141,anti-tumor therapeutic,0
+142,cryopreservation,0
+143,quality-by-design,0
+144,QbD,0
+145,flow cytometry,0
+146,RNA sequencing,0
+147,bulk RNA sequencing,0
+148,scRNA-seq,0
+149,product quality,0
+150, supply chain,0
+151,batch size,0
+152,labor force,0
+153,Draper,0
+154,bioprocessing,0
+155,microfluidics,0
+156,acoustophoretic cell separation,0
+157,cell contaminants,0
+158,Miltenyibiotec,0
+159,Sefia,0
+160,CliniMACS,0
+161,Xuri,0
+162,static conditions,0
+163,non-static bioreactors,0
+164,Chromium release assay,0
+165,Degranulation assay,0
+166,Cytokine quantification,0
+167,Cell proliferation assay,0
+168,detection of apoptotic cells,0
